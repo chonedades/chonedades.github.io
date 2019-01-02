@@ -1,11 +1,7 @@
 ---
 layout: page
-title: All Blog Posts
+title: Todas as postagens
 ---
-
-I noticed it was becoming hard to find all my blog posts after a while, so I
-thought of creating this list to access them easily and keep track of how often
-I post. Hopefully this is useful for the interested visitor too :-)
 
 <div>
     {% for post in site.posts %}    
