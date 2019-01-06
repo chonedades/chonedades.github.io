@@ -15,6 +15,5 @@ No texto, houve muito que eu quis dizer; mas que achei prudente deixar para
 uma próxima publicação. Com sorte, ele não ficou longo demais, a ponto de
 ninguém ler. Com sorte, haverá algum público que o lerá e concordará comigo.
 
-###[Clique aqui para acessar o texto](https://drive.google.com/file/d/1WQRs9_NqsrlwLHZplDX5geXvbRqjSkbU/view?usp=sharing)
-
+### [Clique aqui para acessar o texto](https://drive.google.com/file/d/1WQRs9_NqsrlwLHZplDX5geXvbRqjSkbU/view?usp=sharing)
 
