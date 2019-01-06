@@ -61,7 +61,7 @@ Links
 para entrar na minha página na Universidade de Kaiserslautern.
 
 [Clique aqui](https://drive.google.com/open?id=0B2-sLZMv4F61VG5OcVlKeDVtQk0)
-para acessar o meu Curriculum Vitae.
+para acessar o meu Curriculum Vitae. (atualizado pela última vez em 28/03/2018)
 
 [Clique aqui](http://jcbgamboa.github.io)
 para acessar o meu outro blog, em inglês.
