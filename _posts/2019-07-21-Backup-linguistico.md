@@ -34,26 +34,26 @@ Sobre _kibe_
 
 (postagem original era em inglês)
 
-_Eu quero contar pra vocês sobre uma das minhas palavras preferidas da internet
-brasileira.
-
-Depois da imigração Sírio/Libanesa nos anos 1930s, o "quibe" (nós normalmente
-escrevemos "kibe") se tornou um prato comum no Brasil.
-
-https://en.m.wikipedia.org/wiki/Kibbeh
-
-**De alguma forma** essa palavra adquiriu um significado diferente[^1]: o de
-"ladroagem intelectual", i.e., quando alguém reposta algo como se fosse algo
-novo criado por ele, clamando (com o objetivo de roubar) pra si o crédito pela
-invenção (que na real não é nova). Ambos o ato de roubar e o conteúdo roubado
-é geralmente chamado de "kibe".
-
-Essa palavra é tão comum que deu origem a "kibar" (um verbo) e "kibador". Tudo
-isso é vocabulário normal, super mainstream, ao ponto que o nosso cartunista
-mais famoso já foi abertamente criticado pelos seus "kibes".
+>Eu quero contar pra vocês sobre uma das minhas palavras preferidas da internet
+>brasileira.
+>
+>Depois da imigração Sírio/Libanesa nos anos 1930s, o "quibe" (nós normalmente
+>escrevemos "kibe") se tornou um prato comum no Brasil.
+>
+> [https://en.m.wikipedia.org/wiki/Kibbeh]
+>
+>De alguma forma essa palavra adquiriu um significado diferente[^1]: o de
+>"ladroagem intelectual", i.e., quando alguém reposta algo como se fosse algo
+>novo criado por ele, clamando (com o objetivo de roubar) pra si o crédito pela
+>invenção (que na real não é nova). Ambos o ato de roubar e o conteúdo roubado
+>é geralmente chamado de "kibe".
+>
+>Essa palavra é tão comum que deu origem a "kibar" (um verbo) e "kibador". Tudo
+>isso é vocabulário normal, super mainstream, ao ponto que o nosso cartunista
+>mais famoso já foi abertamente criticado pelos seus "kibes".
 
 [^1]: Eu teorizo que tenha a ver com uma página antiga chamada "kibe loco" que
-postava coisas engraçadas na internet_
+postava coisas engraçadas na internet
 
 
 Depois da postagem, algumas pessoas responderam sobre a história da palavra.
@@ -65,7 +65,7 @@ O Wiktionary não tem uma entrada pra palavra _kibe_. Eu achei que seria legal
 registrar que, buscando por sites antigos com o nome da palavra, eu encontrei
 o seguinte site:
 
-https://kibandoeandando.blogspot.com/2007/12/antnio-tabet-na-desciclopedia.html?m=1&fbclid=IwAR2kvK68QXWZ8tQkbvczHt_VTXqEvjnMy1N1hPks1BUGutK3rnUaXpoutvc
+[https://kibandoeandando.blogspot.com/2007/12/antnio-tabet-na-desciclopedia.html?m=1&fbclid=IwAR2kvK68QXWZ8tQkbvczHt_VTXqEvjnMy1N1hPks1BUGutK3rnUaXpoutvc]
 
 ... que existe desde pelo menos 18 de Dezembro de 2007. Disso fica claro que a
 palavra existe há pelo menos uma década, e não parece ter mudado de significado
@@ -75,10 +75,10 @@ de lá pra cá.
 Sobre _mene_
 ------------
 
-_Uma das minhas palavras favoritas em inglês ultimamente tem sido "mene".
-"Mene" é uma piada que não é boa o suficiente pra se tornar um "meme".
-Ironicamente, "mene" viralizou e existem até notícias (em Português, é claro)
-sobre eles ultimamente..._
+>Uma das minhas palavras favoritas em inglês ultimamente tem sido "mene".
+>"Mene" é uma piada que não é boa o suficiente pra se tornar um "meme".
+>Ironicamente, "mene" viralizou e existem até notícias (em Português, é claro)
+>sobre eles ultimamente...
 
 Denovo, entre os comentários, ficou dito que o _site dos menes_ (uma página
 que posta menes) existe desde 2012 (algo que eu acho legal registrar, caso um
@@ -114,7 +114,7 @@ _Estás fixe ou vais pra Penixe?_
 
 Isso na verdade não foi uma postagem minha. Pode ser aberta aqui:
 
-https://www.facebook.com/excelentesmemes/posts/911722429008338
+[https://www.facebook.com/excelentesmemes/posts/911722429008338]
 
 Denovo, eu só quero manter registrado esses joguinhos de palavras. Nesse caso,
 esse é bem PTPT lol. Vou escrever aqui os exemplos (esses eu não faço idéia se
@@ -142,7 +142,7 @@ Um amigo uma vez me marcou nesta imagem, que eu acho demais e que eu gostaria
 de ter acesso no futuro de uma forma fácil. Assim, deixo um dos links em que
 eu a encontrei (com sorte, esse link não vai sumir tão fácil, já que é do 9gag):
 
-https://9gag.com/gag/a1o1yrD
+[https://9gag.com/gag/a1o1yrD]
 
 
 Pessoas com depressão usam língua de uma forma diferente
@@ -167,7 +167,7 @@ diagnosticar o certo transtorno.
 Por que eu to dizendo isso? Porque uma certa outra linha de pesquisa obteve
 resultados similares com depressão:
 
-https://theconversation.com/people-with-depression-use-language-differently-heres-how-to-spot-it-90877?fbclid=IwAR0_Me2VcqGHSk2ftHgIVTWVMeSY4HPpVV-zqZV2Hb3n4R1HJx60qqk0azs
+[https://theconversation.com/people-with-depression-use-language-differently-heres-how-to-spot-it-90877?fbclid=IwAR0_Me2VcqGHSk2ftHgIVTWVMeSY4HPpVV-zqZV2Hb3n4R1HJx60qqk0azs]
 
 Eu postara isso no Facebook um bom tempo atrás, e agora tendo encontrado essa
 postagem fiquei pensando que isso certamente deveria aparecer na próxima vez
