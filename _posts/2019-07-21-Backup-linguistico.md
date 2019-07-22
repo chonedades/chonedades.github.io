@@ -52,8 +52,7 @@ Sobre _kibe_
 >isso é vocabulário normal, super mainstream, ao ponto que o nosso cartunista
 >mais famoso já foi abertamente criticado pelos seus "kibes".
 
-[^1]: Eu teorizo que tenha a ver com uma página antiga chamada "kibe loco" que
-postava coisas engraçadas na internet
+[^1]: Eu teorizo que tenha a ver com uma página antiga chamada "kibe loco" que postava coisas engraçadas na internet
 
 
 Depois da postagem, algumas pessoas responderam sobre a história da palavra.
