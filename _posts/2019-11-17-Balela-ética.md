@@ -44,7 +44,7 @@ Perfeccionismo à brasileira
 
 Em Setembro do de 2018, um ano antes do ECEM conferência, eu passei dois meses
 no Canadá. Meu objetivo por lá era rodar dois experimentos, um dos quais era
-justamente o que me levou à ECEM desse ano. Na época, tive que preencher pela
+justamente o que me levou ao ECEM desse ano. Na época, tive que preencher pela
 primeira vez certos formulários que seriam mandados a um comitê de ética. Como
 detestasse a burocracia, "reclamei" pra uma amiga, formada em Psicologia,
 sobre como era chato lidar com aquilo. A reclamação levou a uma conversa sobre
@@ -111,7 +111,7 @@ sua participação; e em alguns estudos se deixa explícito que eles eram
 voluntários. Desse último caso, achei legal exemplificar com um artigo do
 professor que me recebeu lá no Canadá:
 
->_A participação foi completamente voluntário e nenhum [participante]
+>_A participação foi completamente voluntária e nenhum [participante]
 >recebeu qualquer recompensa em troca de sua participação_
 >("Participation was fully voluntary and none [of the participants] received
 >any reward in exchange for their participation", Arppe, A., & Järvikivi,
@@ -123,7 +123,7 @@ Mas o que me tirou os butiás dos bolsos[^3] foi escutar que os comitês de
 ética no Brasil exigem que a participação seja _sempre_ 100% voluntária,
 e nunca associada nem a qualquer recompensa nem a uma tarefa de aula.
 A alegação seria (ou pelo menos isso foi o que me foi dito na conferência)
-de que isso constituiria "coação" e portanto não seria ética (aos olhos do
+de que isso constituiria "coação" e portanto não seria ético (aos olhos do
 comitê). Mas na prática
 o que isso significa é que o custo de arranjar participantes
 no Brasil é mais alto, e os experimentos demoram mais pra rodar.
@@ -138,16 +138,17 @@ seguintes coisas ocorram:
 
  * As pessoas no Brasil acreditam que essas regras são as regras comuns no
    mundo todo. Esse é o caso menos pior: é irônico que, num país onde a
-   gente tem sempre a atitude (incorreta, de fato), a gente esteja sendo
+   gente tem sempre a atitude (incorreta, de fato) de que as coisas nunca
+   funcionam, a gente esteja sendo
    muito mais cuidadoso com a ética nos nossos experimentos do que
    basicamente qualquer outro país no mundo. Infelizmente, esse cuidado
    excessivo nos leva à irrelevância, com uma produção científica muito
    mais restrita do que poderia ser se fosse possível que os professores
    levassem a massa gigantesca de estudantes a participar dos estudos
    feitos na própria Universidade.
- * As pessoas no Brasil são perfeccionistas. Esse é o caso realmente
-   difícil de resolver. Em que ganham os comitês de ética brasileiros
-   em ser os mais restritos do mundo?
+ * Ou as pessoas no Brasil são só perfeccionistas mesmo. Esse seria o
+   caso realmente difícil de resolver. Em que ganham os comitês de ética
+   brasileiros em ser os mais restritos do mundo?
 
 
 Conclusão
