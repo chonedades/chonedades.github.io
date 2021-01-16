@@ -30,7 +30,7 @@ incompetente. Eu também quero mostrar um negócio muito louco que ocorre entre
 eleitores bolsonaristas: um esquecimento incrível daquilo que acabou de
 acontecer. Esse esquecimento, eu creio, é movido por duas coisas:
 
- * *As mídias pró-bolsonaristas*, que promovem uma narrativa que parece
+ * *As mídias pró-bolsonaro*, que promovem uma narrativa que parece
    coerente se a pessoa não se lembra dos detalhes
  * *O monopólio da verdade* que elas detêm. Ou seja, eleitores pró-bolsonaro
    só acreditam no que dizem as mídias bolsonaristas.
@@ -111,17 +111,24 @@ hospital em Porto Alegre:
 
 Denovo, ele fala groselha:
 
- * (2min17) _"A Suécia ficou lá aberta todos esses meses ... e não morreu uma criança de COVID"_ (eu procurei os dados sobre isso e não consegui encontrar. É sabido que morrem poucas crianças, mas não é pra isso que serve o lockdown: o lockdown é pra proteger os professores e os pais dessas crianças. De qualquer forma, vou falar sobre isso em outra postagem)
+ * (2min17) _"A Suécia ficou lá aberta todos esses meses ... e não morreu uma criança de COVID"_
+    * Minha resposta: Eu procurei os dados sobre isso e não consegui encontrar. É sabido que morrem poucas crianças, mas não é pra isso que serve o lockdown: o lockdown é pra proteger os professores e os pais dessas crianças. De qualquer forma, vou falar sobre isso em outra postagem
  * (3min21) O Fiuza diz que "hoje já temos levantamentos confirmando ... que essas áreas mais trancadas não tiveram menos óbitos". Denovo... daqui pra frente vou ignorar coisas relacionadas a lockdown. É algo que merece uma postagem própria.
- * (4min48) _"Em geral, abaixo dos 70 anos [a resposta inflamatória causada pelo vírus] é muito leve"_ (Ééé... em muitos casos pode ser, mas [de acordo com os dados dos Estados Unidos, metade das hospitalizações são de pessoas com menos de 65 anos](https://gis.cdc.gov/grasp/covidnet/COVID19_5.html))
- * (8min11) _"O que aconteceu de diferente foi que esse vírus demora mais pra chegar à imunidade de rebanho. O segredo de terminar qualquer epidemia é a imunidade de rebanho."_ (ao que eu pergunto: e a vacina?)
- * (8min42) Ele responde: _"Nunca uma vacina terminou uma epidemia"_ (e a gotinha contra paralisia infantil? E o sarampo? Não tinham sido eliminados por vacina? Legal, não tínhamos uma "epidemia", mas convenhamos...)
- * (9min23) A partir daqui ele começa a sugerir que mais da metade da população teria uma "imunidade natural" contra o virus. Ele cita pesquisadores aleatórios. Eu não achei notícia alguma nem estudo algum publicado por esses dois (Karl Friston e Michael Levitt).
+ * (4min48) _"Em geral, abaixo dos 70 anos [a resposta inflamatória causada pelo vírus] é muito leve"_
+    * Minha resposta: Ééé... em muitos casos pode ser, mas [de acordo com os dados dos Estados Unidos, metade das hospitalizações são de pessoas com menos de 65 anos](https://gis.cdc.gov/grasp/covidnet/COVID19_5.html)
+ * (8min11) _"O que aconteceu de diferente foi que esse vírus demora mais pra chegar à imunidade de rebanho. O segredo de terminar qualquer epidemia é a imunidade de rebanho."_
+    * Minha resposta: e a vacina?
+ * (8min42) Ele responde: _"Nunca uma vacina terminou uma epidemia"_
+    * Minha resposta: e a gotinha contra paralisia infantil? E o sarampo? Não tinham sido eliminados por vacina? (ele pode argumentar que não eram uma epidemia. Mas convenhamos... não é esse o ponto: a paralisia infantil foi completamente eliminada do Brasil por uma gotinha!)
+ * (9min23) A partir daqui ele começa a sugerir que mais da metade da população teria uma "imunidade natural" contra o virus. Ele cita pesquisadores aleatórios. Eu não achei notícia alguma nem estudo algum cujos autores são esses dois (Karl Friston e Michael Levitt).
  * (11min15) _"O pico tá na 19a semana epidemiológica."_
- * (11min25) _"Não houve um novo surto ... que piorou as internações hospitalares"_ (me pergunto se ele saberia responder por que [Manaus teve uma segunda onda de internações agora, em Janeiro, que colapsou o seu sistema de saúde](https://noticias.r7.com/brasil/amazonas-suspende-transporte-coletivo-e-decreta-toque-de-recolher-14012021). Será que é porque essas previsões dele estavam DENOVO erradas?)
+    * Minha resposta: groselha.
+ * (11min25) _"Não houve um novo surto ... que piorou as internações hospitalares"_
+    * Minha resposta: me pergunto se ele saberia responder por que [Manaus teve uma segunda onda de internações agora, em Janeiro, que colapsou o seu sistema de saúde](https://noticias.r7.com/brasil/amazonas-suspende-transporte-coletivo-e-decreta-toque-de-recolher-14012021). Será que é porque essas previsões dele estavam DENOVO erradas?
  * Ele segue falando que tem que testar a vacina, ignorando que o teste da vacina é justamente o seu uso. A vacina permanece sendo "testada" quando aplicada, justamente porque não é possível fazer diferente. Na minha opinião, isso só espalha desconfiança sobre a vacina, e ignora que os testes que a gente já têm mostram que a mortalidade da vacina é *no mínimo* menor que a do vírus.
  * (24min46) Depois de ter falado e falado de imunidade de rebanho na primeira metade da entrevista, ele fala que é um problema que a vacina de Oxford tenha ~70% de eficácia, porque _"30% das pessoas vão tomar achando que vão estar protegidas e não vão estar protegidas"_. É *justamente* pra isso que servem os outros 70%: o objetivo da vacina é chegar à imunidade de rebanho!
- * (26min39) _"São 6 milhões mas na verdade são 60 milhões que já foram infectados, porque esse virus, pela letalidade dele, que é 0.27%, ele contamina muito mais do que aparece"_ (na verdade, *NINGUÉM SABE AINDA* a letalidade do virus. Os dados [indicam que o valor pode ser qualquer coisa entre 0.25% e 10%](https://ourworldindata.org/mortality-risk-covid))
+ * (26min39) _"São 6 milhões mas na verdade são 60 milhões que já foram infectados, porque esse virus, pela letalidade dele, que é 0.27%, ele contamina muito mais do que aparece"_
+    * Minha resposta: na verdade, *NINGUÉM SABE AINDA* a letalidade do virus. Os dados [indicam que o valor pode ser qualquer coisa entre 0.25% e 10%](https://ourworldindata.org/mortality-risk-covid) -- talvez um chute bom seja algo como 1% no momento (?).
 
 (Eu vou me focar na cloroquina também em outra postagem, então não
 vou comentar aqui)
@@ -133,23 +140,26 @@ estudo da USP [essa taxa ficou na faixa dos 10%](https://noticias.r7.com/saude/c
 O Osmar Terra parece ter entendido que as pessoas acreditam mais
 se ele citar nomes de pesquisadores. A essa altura, porém, ninguém
 mais deveria estar dando ouvidos a um cara que falou tanta bobagem
-no início da epidemia. É impressionante que dê. Pra mim o problema
-é: a Jovem Pan nunca "admitiu" que ele tava errado. E o
-bolsonarista que recebeu video dele no início do ano não lembra.
+no início da epidemia. É impressionante que alguém dê. Pra mim o
+problema é: a Jovem Pan nunca "admitiu" que ele tava errado. E o
+bolsonarista que recebeu video dele no início do ano nem lembra
+mais. A narrativa dessa direita nunca ressucita os erros dele, e
+ignora quanta gente morreu por causa desses erros.
 
 O problema de combater esse tipo de desinformação é que dá muito
 trabalho. As pessoas recebem vídeos com ele dizendo isso no WhatsApp
-e não têm estudo suficiente pra saber. Como ele é "estudado",
-acabam acreditando. Quem realmente sabe das coisas acaba
+e não têm discernimento o suficiente pra saber. Como o Osmar
+Terra é supostamente alguém "estudado",
+as pessoas acabam acreditando. Quem realmente sabe das coisas acaba
 recebendo pouca atenção (porque não aparentemente tem interesse
 político nisso).
 
-Alguém que claramente tava muito
+Alguém que claramente sabe das coisas, e tava muito
 esperto pra tudo o que tava rolando é o [Átila Iamarino](https://pt.wikipedia.org/wiki/Atila_Iamarino),
 que a Jovem Pan gosta de chamar de Youtuber (porque ele é a pessoa
 por trás do canal [Nerdologia](https://www.youtube.com/user/nerdologia)),
 mas que por acaso também é biólogo, e que foi pós-doutorando
-(ou seja, pesquisador) na Universidade de Yale
+(ou seja, pesquisador[^3]) na Universidade de Yale
 ([aqui](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4375398/) tem
 link pra um artigo dele em que ele trabalhou com o vírus
 Ebola, justamente durante o surto que teve na África em 2014).
@@ -172,6 +182,8 @@ disse (~51min) que provavelmente só íamos ter vacina em 2021, e
 que (~56min) a economia ía tomar no cu esse ano.
 
 [^2]: Evidência de que o Brasil tava preparado foi que [o Uruguay só agora tá sofrendo a sua primeira onda](https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Uruguay). Tudo bem que o país é pequeno, mas por que então que o RS sofreu muito mais com a doença? Claramente eles têm algo que o RS não tinha.
+
+[^3]: Pós-doutorando é uma palavra chique que não significa nada. É o cara que tá num limbo entre "terminou o doutorado" e "não tem ainda experiência/conhecimento/capacidade/autonomia pra virar Professor". Ninguém "tem pós-doutorado". Não existe um "curso de pós-doutorado". O que existe é a pessoa trabalhar como "pós-doutor" por um tempo, fazendo pesquisa, dando aula, adquirindo experiência para que, eventualmente, ela possa atuar como Professor.
 
 
 No dia 18 de Março, o mesmo dia da primeira entrevista com o
