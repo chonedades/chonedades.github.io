@@ -211,7 +211,7 @@ Na época, todo mundo o chamou de alarmista por falar em 1 milhão de
 mortos. Tanto que até ele acabou em Abril "se justificando" e fazendo
 [esse fio no Twitter](https://twitter.com/oatila/status/1248778877368963072?lang=en),
 explicando que isso é *SE A GENTE NÃO FIZESSE NADA*.
-A [Jovem Pan reviveu esse assunto esses tempos](https://www.youtube.com/watch?v=nRmnaVmiXyI),
+Faz pouco tempo, [a Jovem Pan reviveu esse assunto](https://www.youtube.com/watch?v=nRmnaVmiXyI),
 com o Augusto Nunes basicamente perguntando "onde tá o milhão de
 mortos?", e insistindo que não tinha segunda onda nenhuma.
 O cara inclusive consegue ter a cara de pau de dizer "não tem
