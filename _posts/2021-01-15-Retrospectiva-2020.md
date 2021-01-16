@@ -14,13 +14,14 @@ o contato com a realidade. O problema é que explicar o porquê disso é difíci
 as coisas que ele diz tem seu fundo de verdade, mas normalmente "não são bem
 assim". Quando eu disse à pessoa que esse vídeo é um absurdo, a pessoa disse que
 não discutiria comigo sobre Bolsonaro, porque sabe que "eu sou contra". Bom...
-eu até que poderia não ser: me parecia uma escolha difícil entre duas opções
-extremamente ruins, e o Brasil acabou simplesmente escolhendo algo diferente.
-Eu não esperava um governo bom, mas tinha a expectativa de pelo menos alguma
-"estabilidade" depois da loucuragem tremenda que os governos anteriores tinham
-aprontado.[^1]
-Mas eu sou contra incompetência, e essa o governo mostrou
-que tem de sobra.
+eu até que poderia não ser: no tempo da eleição,
+o voto era uma escolha difícil entre duas opções
+extremamente ruins, e o Brasil acabou escolhendo a direita.
+Na época,
+eu não esperava um governo bom, mas tinha a expectativa de pelo menos alguma
+"estabilidade": o país tinha passado por muita loucuragem nos últimos anos.[^1]
+Mas eu sou contra incompetência, e esse governo mostrou que tem
+incompetência de sobra.
 
 [^1]: Eu vou fazer uma postagem sobre isso ainda em algum momento. Ambos os lados na minha opinião ignoram *demais* as próprias desvantagens, o que gera ainda _mais_ polarização.
 
