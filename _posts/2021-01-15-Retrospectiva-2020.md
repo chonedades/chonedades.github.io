@@ -172,9 +172,10 @@ O "alarmista" Átila Iamarino tava dizendo
 justamente o contrário de tudo o que o Osmar Terra dizia já lá
 em Março.
 [Em fevereiro](https://www.youtube.com/watch?v=xARmN9qurAY) ele
-já dizia que a gente talvez precise (se começar a ter transmissão
-comunitária) tentar "achatar a curva" (ou seja, evitando contato
-e ficando em casa), e que (~50min) o Brasil tava muito bem
+já dizia que a gente talvez precise tentar "achatar a curva"
+(ou seja, evitando contato e ficando em casa) se começar a ter
+transmissão comunitária. Também disse que (~50min) o Brasil
+tava muito bem
 preparado pra combater o virus, por conta do SUS (que tem uma
 capilaridade grande, estando presente em tudo que é lugar do
 país).[^2] Nessa live ele também já
@@ -189,7 +190,7 @@ que (~56min) a economia ía tomar no cu esse ano.
 No dia 18 de Março, o mesmo dia da primeira entrevista com o
 Osmar Terra, [o Átila já dizia que](https://www.youtube.com/watch?v=7jHgS4yxS0A):
 
- * (35min47) Se a gente fechasse *_naquele exato momento_* as cidades onde tinha surto no momento, a gente teria _pelo menos_ 3 meses de pandemia ainda (extrapolando pelos dados da China). Ou seja, se agíssemos _naquele momento_, a pandemia duraria mais do que "fim de Maio / início de Junho", como disse o Osmar Terra em Abril. Se a gente não agisse naquele momento, o cenário poderia ser muito pior.
+ * (35min47) Se a gente fechasse *_naquele exato momento_* as cidades onde tinha surto, a gente teria _pelo menos_ 3 meses de pandemia ainda (extrapolando pelos dados da China). Ou seja, se agíssemos _naquele momento_, a pandemia duraria mais do que "fim de Maio / início de Junho", como disse o Osmar Terra. Se a gente não agisse naquele momento, o cenário poderia ser muito pior.
  * (38min41) Mesmo depois que tivermos vacina, elas vão demorar _meses_ pra serem produzidas.
 
 Dois dias depois, ele publicou uma
