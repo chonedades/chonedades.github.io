@@ -171,7 +171,7 @@ não tenho feito nada pra impedir o desastre?
 No fim das contas, a realidade das *notícias* acaba perdendo a
 importância pra quem assiste ao canal. O que importa _mesmo_ é
 a história que eles contam. E a loucura é que eles mudam essa
-história o tempo todo. Como eu já mencionei na minha primeira,
+história o tempo todo. Como eu já mencionei na minha primeira postagem,
 o Osmar Terra tá há um ano adiando a previsão dele de quando
 seria "o fim da pandemia".
 E, importante lembrar, é claro que isso não é exclusivo da Jovem
@@ -190,7 +190,7 @@ o Josias de Souza, e a Thaís Oyama. Ao longo dos últimos ~15 meses,
 todo esse
 pessoal foi desaparecendo do Semana da Pan pra dar lugar a um
 certo Guilherme Fiúza, um Marc Souza, um Tomé Abduch
-[e até uma (ex-atleta) chamada Ana Paula Henkel](https://pt.wikipedia.org/wiki/Ana_Paula_Henkel)
+[e até uma (ex-atleta chamada) Ana Paula Henkel](https://pt.wikipedia.org/wiki/Ana_Paula_Henkel)
 (que aparentemente foi bronze no vôlei nas Olimpíadas de Atlanta),
 que só têm elogios pro governo e sempre encontram uma desculpa
 super esfarrapada pra explicar a incompetência bolsonarista.
@@ -220,7 +220,7 @@ do Estadão.
 Voltando ao Fulano
 ------------------
 
-Ok, mas qual o efeito que esses programas de "opinião" tem na
+Ok, mas qual o efeito que esses programas de "opinião" têm na
 opinião final do Fulano? A resposta pra isso é complicada.
 Tipo... eu acho que o Fulano na verdade não
 acredita em mídia nenhuma. Eu acho que ele não só não assiste
