@@ -26,25 +26,25 @@ Inglês Indiano não é uma expressão racista
 
 Tipo... _de fato_, não teria como ser. Bem "por definição", a expressão não
 tem absolutamente qualquer relação com raça. As pessoas etnicamente indianas
-que cresceram nos EUA não falam inglês indiano. Um japonês que crescesse na
-Índia falando o inglês do país estaria falando inglês indiano. A etnia de
+que cresceram nos EUA não falam Inglês Indiano. Um japonês que crescesse na
+Índia falando o Inglês do país estaria falando Inglês Indiano. A etnia de
 alguém é uma característica absolutamente independente da caracterização
-dessa variedade de inglês.
+dessa variedade de Inglês.
 
 Mesmo assim, seriam "Inglês Australiano" ou "Inglês Britânico" expressões
 racistas sob essa mesma lógica? Me pergunto se alguém sugeriria que é
 racista falar em "Inglês Sul-Africano".
 Pelo contrário, eu diria que negar à Índia a possibilidade de possuir um
-"inglês" sim seria preconceituoso (ou racista?). A diferença entre, por
+"Inglês" sim seria preconceituoso (ou racista?). A diferença entre, por
 um lado, a Austrália, a Nova Zelândia e o Canadá, e por outro, a Índia, o
-Paquistão e as Filipinas (todos os quais têm o inglês como língua oficial
-mas somente alguns dos quais têm um inglês "reconhecido") poderia ser a
+Paquistão e as Filipinas (todos os quais têm o Inglês como língua oficial
+mas somente alguns dos quais têm um Inglês "reconhecido") poderia ser a
 "raça percebida" das suas sociedades? Talvez, mas eu não acredito nisso.
 
 Na verdade, em vez disso, eu
 prefiro acreditar que a diferença entre esses dois grupos de países é a sua
 "relevância econômica": se de repente, a partir de amanhã, a Austrália
-decidisse (e, aliás, _de fato_ já o faz) que o seu inglês agora é diferente,
+decidisse (e, aliás, _de fato_ já o faz) que o seu Inglês agora é diferente,
 e que pra estudar em suas Universidades ou fazer negócio na Austrália
 uma pessoa precisaria passar num teste de "Inglês Australiano",
 todo mundo abaixaria a cabeça e aceitaria que "Inglês Australiano" é
@@ -73,14 +73,14 @@ dessas coisas que dizem nas empresas.
 E a expressão inclusive não captura o significado real da coisa. A não
 ser que seja instruído para isso, Indiano em geral *não fala*
 "Offshore English". Tem um monte de características do Inglês Indiano
-que não são "standard" em outros ingleses e que não são "simplificações
+que não são "standard" em outros Ingleses e que não são "simplificações
 pra todo mundo poder se entender". Deixa eu dar dois exemplos...
 
 *Exemplo 1*: digamos que eu seja colega de um indiano em um curso na
 Universidade e tenha esquecido de fazer a lição de casa. Quando eu chego
 na aula, o indiano me pergunta _did you do the homework?_. Ao responder
 _No, I didn't_, ele me responde _even I didn't do the homework_. O que
-isso significa? Em "inglês standard" isso significaria algo como
+isso significa? Em "Inglês Standard" isso significaria algo como
 "normalmente eu teria feito o; mas dessa vez _até eu_ não fiz o tema".
 Porém, no Inglês Indiano, "even I" significa simplesmente "eu também".
 Ele não é mais nerdola que eu... só falou algo de acordo com o seu
@@ -106,16 +106,17 @@ Bom... aqui eu vou dizer que sim... concordo que deveria existir
 algo como um "Inglês Brasileiro".
 E de fato provavelmente até mesmo exista gente que estude
 uma "categoria" de "Inglês Brasileiro". Os sons da nossa primeira língua
-e o modo como as pessoas à nossa volta falam inglês definitivamente
-têm um efeito no nosso próprio inglês. Mas eu acho que não é verdade
+e o modo como as pessoas à nossa volta falam Inglês definitivamente
+têm um efeito no nosso próprio Inglês. Mas eu acho que não é verdade
 que "se existe um deveria existir o outro".
 
 Eu creio que esse argumento seja em parte o resultado de
-não-conhecimento sobre a história Índia. É ignorar que a Índia foi
+não-conhecimento sobre a história Índia (não que eu seja algum grande
+conhecedor do assunto, por outro lado). É ignorar que a Índia foi
 ocupada por ~200 anos pelos britânicos (e só ficou independente em
 1947). Que a burocracia estatal da Índia (e do Paquistão, de fato)
-é toda ou em Inglês ou traduzida eventualmente pro inglês. Que
-as Universidades dão aula exclusivamente em inglês, e que o inglês
+é toda ou em Inglês ou traduzida eventualmente pro Inglês. Que
+as Universidades dão aula exclusivamente em Inglês, e que o Inglês
 funciona como língua franca em regiões onde não se fala Hindi (como
 no sul).
 
@@ -139,6 +140,9 @@ Colocar o Inglês Indiano "dentro do mesmo saco" de outras variedades
 é, na minha opinião, deslegitimizar o direito do Indiano de chamar o
 seu Inglês de seu.
 
+(pela minha argumentação acima, pode parecer que eu defenda a
+existência de um "Inglês Paquistanês" também. Aqui eu acho que o
+buraco é um pouco mais embaixo, mas a resposta curta é "talvez")
 
 
 Notas de Rodapé
